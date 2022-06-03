@@ -1,13 +1,4 @@
-# README.md
-
----
-
-<aside>
-✒️ **By Cristal Campos Abad**
-
-</aside>
-
----
+*✒️ By Cristal Campos Abad*
 
 # What is this?
 
@@ -21,11 +12,8 @@ The repository is **Tutorial_Springboot_Angular**, and it contains **two** submo
 
 ### Notation
 
-<aside>
-💡 The commits will follow this basic structure:
-action(affected): description
-
-</aside>
+*💡 The commits will follow this basic structure -
+action(affected): description*
 
 **Action**
 
@@ -66,7 +54,3 @@ This will vary more often, depending on how I’m feeling. However, I will try t
 ## Anything else?
 
 Not really, no. I will keep updating the code and README, if necessary. See you on the other side.
-
----
-
-[🔝 Go back to the top](https://www.notion.so/README-md-874219c174c4406e82948ef291f0caa3)
