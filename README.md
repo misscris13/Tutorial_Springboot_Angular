@@ -10,6 +10,10 @@ This is a **public** repository that simply exists to document my ongoing progre
 
 The repository is **Tutorial_Springboot_Angular**, and it contains **two** submodules: **Backend** and **Frontend**. The names are pretty self-explanatory here. The backend will consist of Java-Springboot, and the frontend of HTML-CSS-JavaScript-Angular.
 
+### Keeping track of progress
+
+As a way of anotating everything and simulating a real project, I'm working on a [Notion page](https://www.notion.so/59992f34dfb947f4a4771ea6462f10a7?v=2436990bd6874431adbefbdd62597465&p=a6744dc2f9334a7ebd11784db7ddc932) that acts similar to a Trello.
+
 ### Notation
 
 *💡 The commits will follow this basic structure -
